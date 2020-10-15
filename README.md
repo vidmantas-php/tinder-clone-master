@@ -1,3 +1,7 @@
+Open this code with VisualStudio, open terminal and write npm install after that npm start;
+
+You must to have node.js installed;
+
 YOU NEED TO ADD FIREBASE TO MAKE IT WORK!!!
 
 You need to create firebase.js in react
